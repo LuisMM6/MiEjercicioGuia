@@ -2,3 +2,6 @@
 
 
 Versión con conexión, desconexión. 
+
+Versión con concurrencia.
+
